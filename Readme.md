@@ -4,7 +4,7 @@ Ce site vitrine est un projet fictif et humoristique créé pour présenter [Emi
 
 ## Aperçu du Site
 
-![Capture d'écran du site Sushi Kawaii](img/AcaptureSushi.PNG)
+![Capture d'écran du site Sushi Kawaii](img/ASUSIHIreadme.PNG)
 
 ## Technologies Utilisées
 
